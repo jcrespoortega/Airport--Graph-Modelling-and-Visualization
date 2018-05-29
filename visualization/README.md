@@ -1,4 +1,4 @@
-#Visulazation Process
+# Visaulazation Process
 
 At this point of the proyect the data is alredy clean and modelling as a graph with all the features. It is time to make a visualization with the idea of present the information in an apealling way.
 
