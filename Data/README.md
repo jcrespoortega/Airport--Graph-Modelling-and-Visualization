@@ -1,3 +1,3 @@
 # DATA
 
-Data is our fuel an without it we can´t work, for this reason it is the toy data set with data from airpots with arrives and departures.
+Data nowadays have an important value but without a good development and knowledge about it, this data will become complete useless. The dataset which I present here is alredy prepared to visualization process and all the insights and features was extrated in modelling part of the proyect.
